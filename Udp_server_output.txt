@@ -1,0 +1,101 @@
+UDP Server is listening on port 12346...
+Responded to ('127.0.0.1', 12346) with: Received: Message 0
+Responded to ('127.0.0.1', 12346) with: Received: Message 1
+Responded to ('127.0.0.1', 12346) with: Received: Message 2
+Responded to ('127.0.0.1', 12346) with: Received: Message 3
+Responded to ('127.0.0.1', 12346) with: Received: Message 4
+Responded to ('127.0.0.1', 12346) with: Received: Message 5
+Responded to ('127.0.0.1', 12346) with: Received: Message 6
+Responded to ('127.0.0.1', 12346) with: Received: Message 7
+Responded to ('127.0.0.1', 12346) with: Received: Message 8
+Simulated packet loss for message: Message 9
+Responded to ('127.0.0.1', 12346) with: Received: Message 10
+Responded to ('127.0.0.1', 12346) with: Received: Message 11
+Responded to ('127.0.0.1', 12346) with: Received: Message 12
+Responded to ('127.0.0.1', 12346) with: Received: Message 13
+Responded to ('127.0.0.1', 12346) with: Received: Message 14
+Responded to ('127.0.0.1', 12346) with: Received: Message 15
+Simulated packet loss for message: Message 16
+Responded to ('127.0.0.1', 12346) with: Received: Message 17
+Responded to ('127.0.0.1', 12346) with: Received: Message 18
+Responded to ('127.0.0.1', 12346) with: Received: Message 19
+Responded to ('127.0.0.1', 12346) with: Received: Message 20
+Responded to ('127.0.0.1', 12346) with: Received: Message 21
+Responded to ('127.0.0.1', 12346) with: Received: Message 22
+Responded to ('127.0.0.1', 12346) with: Received: Message 23
+Responded to ('127.0.0.1', 12346) with: Received: Message 24
+Responded to ('127.0.0.1', 12346) with: Received: Message 25
+Responded to ('127.0.0.1', 12346) with: Received: Message 26
+Responded to ('127.0.0.1', 12346) with: Received: Message 27
+Responded to ('127.0.0.1', 12346) with: Received: Message 28
+Simulated packet loss for message: Message 29
+Responded to ('127.0.0.1', 12346) with: Received: Message 30
+Responded to ('127.0.0.1', 12346) with: Received: Message 31
+Responded to ('127.0.0.1', 12346) with: Received: Message 32
+Responded to ('127.0.0.1', 12346) with: Received: Message 33
+Responded to ('127.0.0.1', 12346) with: Received: Message 34
+Simulated packet loss for message: Message 35
+Responded to ('127.0.0.1', 12346) with: Received: Message 36
+Responded to ('127.0.0.1', 12346) with: Received: Message 37
+Simulated packet loss for message: Message 38
+Responded to ('127.0.0.1', 12346) with: Received: Message 39
+Responded to ('127.0.0.1', 12346) with: Received: Message 40
+Responded to ('127.0.0.1', 12346) with: Received: Message 41
+Responded to ('127.0.0.1', 12346) with: Received: Message 42
+Simulated packet loss for message: Message 43
+Responded to ('127.0.0.1', 12346) with: Received: Message 44
+Simulated packet loss for message: Message 45
+Responded to ('127.0.0.1', 12346) with: Received: Message 46
+Responded to ('127.0.0.1', 12346) with: Received: Message 47
+Responded to ('127.0.0.1', 12346) with: Received: Message 48
+Responded to ('127.0.0.1', 12346) with: Received: Message 49
+Simulated packet loss for message: Message 50
+Responded to ('127.0.0.1', 12346) with: Received: Message 51
+Responded to ('127.0.0.1', 12346) with: Received: Message 52
+Responded to ('127.0.0.1', 12346) with: Received: Message 53
+Responded to ('127.0.0.1', 12346) with: Received: Message 54
+Responded to ('127.0.0.1', 12346) with: Received: Message 55
+Responded to ('127.0.0.1', 12346) with: Received: Message 56
+Responded to ('127.0.0.1', 12346) with: Received: Message 57
+Responded to ('127.0.0.1', 12346) with: Received: Message 58
+Responded to ('127.0.0.1', 12346) with: Received: Message 59
+Responded to ('127.0.0.1', 12346) with: Received: Message 60
+Responded to ('127.0.0.1', 12346) with: Received: Message 61
+Responded to ('127.0.0.1', 12346) with: Received: Message 62
+Simulated packet loss for message: Message 63
+Responded to ('127.0.0.1', 12346) with: Received: Message 64
+Responded to ('127.0.0.1', 12346) with: Received: Message 65
+Responded to ('127.0.0.1', 12346) with: Received: Message 66
+Responded to ('127.0.0.1', 12346) with: Received: Message 67
+Responded to ('127.0.0.1', 12346) with: Received: Message 68
+Simulated packet loss for message: Message 69
+Responded to ('127.0.0.1', 12346) with: Received: Message 70
+Simulated packet loss for message: Message 71
+Responded to ('127.0.0.1', 12346) with: Received: Message 72
+Responded to ('127.0.0.1', 12346) with: Received: Message 73
+Responded to ('127.0.0.1', 12346) with: Received: Message 74
+Responded to ('127.0.0.1', 12346) with: Received: Message 75
+Responded to ('127.0.0.1', 12346) with: Received: Message 76
+Responded to ('127.0.0.1', 12346) with: Received: Message 77
+Responded to ('127.0.0.1', 12346) with: Received: Message 78
+Responded to ('127.0.0.1', 12346) with: Received: Message 79
+Responded to ('127.0.0.1', 12346) with: Received: Message 80
+Simulated packet loss for message: Message 81
+Responded to ('127.0.0.1', 12346) with: Received: Message 82
+Responded to ('127.0.0.1', 12346) with: Received: Message 83
+Responded to ('127.0.0.1', 12346) with: Received: Message 84
+Responded to ('127.0.0.1', 12346) with: Received: Message 85
+Responded to ('127.0.0.1', 12346) with: Received: Message 86
+Responded to ('127.0.0.1', 12346) with: Received: Message 87
+Responded to ('127.0.0.1', 12346) with: Received: Message 88
+Responded to ('127.0.0.1', 12346) with: Received: Message 89
+Responded to ('127.0.0.1', 12346) with: Received: Message 90
+Responded to ('127.0.0.1', 12346) with: Received: Message 91
+Responded to ('127.0.0.1', 12346) with: Received: Message 92
+Responded to ('127.0.0.1', 12346) with: Received: Message 93
+Simulated packet loss for message: Message 94
+Responded to ('127.0.0.1', 12346) with: Received: Message 95
+Responded to ('127.0.0.1', 12346) with: Received: Message 96
+Responded to ('127.0.0.1', 12346) with: Received: Message 97
+Simulated packet loss for message: Message 98
+Responded to ('127.0.0.1', 12346) with: Received: Message 99
